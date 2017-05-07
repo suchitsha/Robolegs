@@ -10,7 +10,7 @@ At the very end of the hackathon our robot can already stabilize itself and coun
 
 We learned about myorobotics, how to exchange tendons after failed attempts as well as about robot control algorithms.
 
-Here is a quick pick on the mechanism being control in a position where ith out control was unstable: https://youtu.be/iNIt2GMIuko
+Here is a quick pick on the mechanism being control in a position where ith out control was unstable: https://youtu.be/iNIt2GMIuko.
 Another video with demo of joint control of the myo legs: https://youtu.be/xaev9gvU7lA
 
 And more media here: https://devpost.com/software/robolegs
